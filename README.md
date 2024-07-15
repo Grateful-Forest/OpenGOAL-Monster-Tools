@@ -17,5 +17,5 @@ Instruction:
 4. Click Generate Selected.
 
 Limitations:
-- No Concave Slices Around the Perimiter Sharper than 90 degrees (use Nav-Spheres instead)
+- No Concave Slices Around the Perimeter Sharper than 90 degrees (use Nav-Spheres instead)
 - No Jumps
