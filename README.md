@@ -16,5 +16,5 @@ Instruction:
 3. Select Navmesh in Blender and Generate.
 
 Limitations:
-- No Concave Slices Around the Perimeter Sharper than 90 degrees (use Nav-Spheres instead)
+- Monster Won't Navigate Around Sharp Pizza Slices Around the Perimiter Sharper than 90 Degrees (use Nav-Spheres instead)
 - No Jumps
