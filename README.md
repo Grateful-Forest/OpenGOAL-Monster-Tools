@@ -8,13 +8,10 @@ Supports:
 - Custom Navmesh Shapes
 - Nav-Sphere Generation
 - Monster Path Generation
+- Jump Gaps
 - One-Click Handling of All Code
 
 Instruction:
 1. Install the Blender Add-On.
 2. Enable Support for Navmesh [Here](https://github.com/LuminarLight/LL-OpenGOAL-ModBase/commit/4f897008fa2ec8809e04c2b32d5ef9c329afede8?diff=unified&w=0).
 3. Select Navmesh in Blender and Generate.
-
-Limitations:
-- Monster Won't Navigate Around Sharp Pizza Slices Cut Out of the Perimiter Sharper than 90 Degrees (use Nav-Spheres instead)
-- No Jumps
