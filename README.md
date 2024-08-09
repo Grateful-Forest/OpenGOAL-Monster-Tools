@@ -8,7 +8,6 @@ Supports:
 - Custom Navmesh Shapes
 - Nav-Sphere Generation
 - Monster Path Generation
-- Jump Gaps
 - One-Click Handling of All Code
 
 Instruction:
