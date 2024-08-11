@@ -17,6 +17,6 @@ Features:
 - Enjoy Automated Tools to Build Enemies in 3D Space
 
 Instructions:
-1. Install the Blender Add-On.
-2. Enable Support for Navmesh [Here](https://github.com/LuminarLight/LL-OpenGOAL-ModBase/commit/4f897008fa2ec8809e04c2b32d5ef9c329afede8?diff=unified&w=0). (Thanks to LuminarLight for their original Navmesh implementation)
-3. Select Navmesh in Blender and Generate.
+1. Install the Blender Add-On
+2. Enable Support for Navmesh [Here](https://github.com/LuminarLight/LL-OpenGOAL-ModBase/commit/4f897008fa2ec8809e04c2b32d5ef9c329afede8?diff=unified&w=0) (Thanks to LuminarLight for their Original Navmesh Implementation)
+3. Select Navmesh in Blender and Generate
