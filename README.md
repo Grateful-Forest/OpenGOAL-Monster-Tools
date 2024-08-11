@@ -8,7 +8,7 @@ Supports:
 - Custom Navmesh Generator
 - Nav-Sphere Generation
 - Monster Path Generation
-- Set Jump Gaps
+- Paint Areas as Jump Gaps
 - One-Click Handling of All Code
 
 Features:
