@@ -13,8 +13,8 @@ Supports:
 
 Features:
 - Create Any Shape Without Worrying About Triangulation
-- Use the Blender IDE to Draw and Create Nav-Spheres
-- Enjoy Automated Tools to Build Enemies in 3D Space
+- Use the Blender GUI to Draw and Place Nav-Spheres
+- Enjoy Automated Tools to Create Enemies in 3D Space
 
 Instructions:
 1. Install the Blender Add-On
