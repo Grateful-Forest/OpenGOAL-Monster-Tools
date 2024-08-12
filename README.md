@@ -7,9 +7,9 @@ Features:
 - Easily draw areas where monsters chase Jak using Blender’s 3D IDE.
 - Use any shapes for navigation without worrying about triangulation.
 - Click and draw curves to create paths monsters follow when idle.
-- Draw 3D spheres to precisely set obstacles in your 3D space.
+- Draw and size 3D spheres to set obstacles in 3D space precisely.
 - Paint regions to specify gaps that monsters jump over.
-- Automatically format complex use-cases with all code ready to go with a single click.
+- Automatically format complex use-cases in a one-click formatting of code.
 
 Instructions:
 1. Install the add-on in Blender.
