@@ -9,7 +9,7 @@ Features:
 - Click and draw curves to create paths monsters follow when idle.
 - Draw and size 3D spheres to set obstacles in 3D space precisely.
 - Paint regions to specify gaps that monsters jump over.
-- Automatically format complex use-cases in a one-click formatting of code.
+- Automatically format complex use-cases with one-click code generation. 
 
 Instructions:
 1. Install the add-on in Blender.
