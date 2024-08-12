@@ -1,20 +1,21 @@
 # OpenGOAL-Monster-Tools
-One-Click Monster Creator for Jak 1
+One-Click Monster Generator for Jak 1
 
 ![Navmesh](https://github.com/user-attachments/assets/21cf6645-7de2-492b-bf42-3eaaba11073d)
 
 
 Supports:
-- Create the Area Monsters Can Chase Jak In
-- Create the Paths Monsters Walk Along When Idle
-- Create Nav-Spheres for Obstacles Inside the Area
+- Draw in a 3D GUI the Area Monsters Can Chase Jak In
+- Click and Draw the Paths Monsters Walk Along When Idle
+- Place 3D Spheres for Obstacles Within the Area
 - Paint Regions as Gaps Monsters Jump Over
 - Do It All Without Touching a Single Line of Code
 
 Features:
-- Create Any Shape Without Worrying About Triangulation
+- Make Any Shape Without Worrying About Triangulation
 - Use the Blender GUI to Draw and Place Nav-Spheres
 - Enjoy Automated Tools to Create Enemies in 3D Space
+- One-Click Handling of All Code
 
 Instructions:
 1. Install the Blender Add-On
