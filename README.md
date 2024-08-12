@@ -6,10 +6,10 @@ One-Click Monster Generator for Jak 1
 Features:
 - Easily create any shape for monster navigation by drawing it in Blender.
 - Use any shape without needing to worry about triangulation.
-- Click and drag curves to create paths for idle movement.
+- Click and drag curves for monster paths when idle.
 - Add 3D spheres to define obstacles in 3D space.
-- Paint regions to indicate areas monsters jump over.
-- Format complex use-cases automatically with a single click code exporter.
+- Paint regions to indicate where monsters should jump.
+- Automatically format complex use-cases with a single-click code exporter.
 
 Instructions:
 1. Install the add-on in Blender.
