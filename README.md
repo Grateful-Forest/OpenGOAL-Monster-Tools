@@ -4,12 +4,12 @@ One-Click Monster Generator for Jak 1
 ![Navmesh](https://github.com/user-attachments/assets/21cf6645-7de2-492b-bf42-3eaaba11073d)
 
 Features:
-- Easily draw areas where monsters chase Jak using Blender’s 3D IDE.
-- Use any shapes for navigation without worrying about triangulation.
-- Click and draw curves to create paths monsters follow when idle.
-- Draw and size 3D spheres to set obstacles in 3D space precisely.
-- Paint regions to specify gaps that monsters jump over.
-- Automatically format complex use-cases with one-click code generation. 
+- Easily create any shape monsters chase Jak in by drawing it in Blender.
+- Use any shape without worrying about triangulation.
+- Click and drag curves to set paths monsters follow when idle.
+- Resize 3D spheres to precisely set obstacles in 3D space.
+- Paint regions to set jump areas monsters jump over.
+- Export complex use-cases with a one-click code exporter.
 
 Instructions:
 1. Install the add-on in Blender.
