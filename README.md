@@ -10,7 +10,7 @@ Supports:
 - Click and draw paths to define routes monsters follow when idle.
 - Precisely set obstacles in your space by drawing 3D spheres.
 - Paint regions to specify gaps monsters jump over.
-- Format complex use-cases with a 1-click generation of all code.
+- Format complex use-cases with 1-click generation of all code.
 
 Instructions:
 1. Install the Blender Add-On
