@@ -9,7 +9,7 @@ Features:
 - Click and drag paths to set monster paths when idle.
 - Adjust 3D spheres to set obstacles in 3D space.
 - Paint regions to indicate where monsters should jump.
-- Format complex use-cases with a one-click code exporter.
+- Instantly format complex use-cases with a single-click code exporter.
 
 Instructions:
 1. Install the add-on in Blender.
