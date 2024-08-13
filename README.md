@@ -7,9 +7,9 @@ Features:
 - Easily make any shape for monster navigation by drawing it in Blender.
 - Use any shape without worrying about triangulation.
 - Click and drag paths to set monster paths when idle.
-- Use 3D spheres to define obstacles in 3D space.
+- Adjust 3D spheres to set obstacles in 3D space.
 - Paint regions to indicate where monsters should jump.
-- Automatically format complex use-cases in a single-click.
+- Automatically format complex use-cases with a one-click exporter.
 
 Instructions:
 1. Install the add-on in Blender.
