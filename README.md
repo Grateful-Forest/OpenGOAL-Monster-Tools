@@ -12,6 +12,6 @@ Features:
 - Correctly format complex use-cases with a one-click button.
 
 Instructions:
-1. Install the add-on in Blender.
-2. Add support for navmeshes [here](https://github.com/LuminarLight/LL-OpenGOAL-ModBase/commit/4f897008fa2ec8809e04c2b32d5ef9c329afede8?diff=unified&w=0). (Thanks to LuminarLight for their original navmesh implementation)
+1. Install the Blender add-on.
+2. Add support for [navmeshes](https://github.com/LuminarLight/LL-OpenGOAL-ModBase/commit/4f897008fa2ec8809e04c2b32d5ef9c329afede8?diff=unified&w=0). (Thanks to LuminarLight for their original navmesh implementation)
 3. Select your navmeshes in Blender and generate.
