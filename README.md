@@ -6,8 +6,8 @@ One-Click Monster Generator for Jak 1
 Features:
 - Do nothing but draw a shape in Blender to make an area monsters roam in. 
 - Use any shape without worrying about triangulation.
-- Click and drag lines to place paths monsters follow when idle.
-- Use 3D spheres to set obstacles in 3D space.
+- Click and drag lines to create paths monsters follow when idle.
+- Resize 3D spheres to set obstacles in 3D space.
 - Paint any area to mark a gap monsters jump over.
 - Correctly format complex use-cases with a single click.
 
