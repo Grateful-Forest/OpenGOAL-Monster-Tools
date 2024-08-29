@@ -14,4 +14,4 @@ Features:
 Instructions:
 1. Install the Blender add-on.
 2. Add support for [navmeshes](https://github.com/LuminarLight/LL-OpenGOAL-ModBase/commit/4f897008fa2ec8809e04c2b32d5ef9c329afede8?diff=unified&w=0). (Thanks to LuminarLight for their original navmesh implementation)
-3. Select your navmeshes in Blender and generate.
+3. Select your navmesh in Blender and generate.
