@@ -1,5 +1,5 @@
 # OpenGOAL-Monster-Tools
-One-Click Monster Solution for Jak 1
+One-Click Exporter of All Monster Related Code - No Programming Required
 
 ![Navmesh](https://github.com/user-attachments/assets/21cf6645-7de2-492b-bf42-3eaaba11073d)
 
@@ -11,6 +11,12 @@ Features:
 - Paint any area to mark gaps monsters jump over.
 - Correctly format complex use-cases with a single click.
 - Do nothing but CTRL-V to see your monsters in game.
+
+Includes:
+- Checks that keep you in the 255 OpenGOAL limit.
+- Unique instancing. Touch up a previous export and it'll replace the old one, or create a new one, your indexing won't conflict.
+- Place everything with total control, by setting it accurately in 3D space.
+- One-click, automatic generation of all code. 
 
 Instructions:
 1. Install the Blender add-on.
