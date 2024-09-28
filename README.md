@@ -1,5 +1,5 @@
 # OpenGOAL-Monster-Tools
-One-Click Exporter of All Monster Related Code - No Programming Required
+One-Click Exporter of All Monster Related Code
 
 ![Navmesh](https://github.com/user-attachments/assets/21cf6645-7de2-492b-bf42-3eaaba11073d)
 
@@ -9,14 +9,14 @@ Features:
 - Click and drag lines to generate paths monsters follow when idle.
 - Size 3D spheres to set obstacles in 3D space.
 - Paint any area to mark gaps monsters jump over.
-- One-click handling of all code, correctly exporting all monster related code in a single click.
+- Correctly export all monster related code in a single click.
+- Do nothing but CTRL-V to see your monsters in game.
 
 Includes:
 - Checks that keep you in the 255 OpenGOAL limit.
 - Unique instancing. Touch up a previous export and it'll replace the old one, or create a new one, your indexing won't conflict.
-- Place everything with total control, by setting it accurately in 3D space.
-- Single click generation of all code, correctly formatting complex use-cases.
-- Do nothing but CTRL-V to see your monsters in game.
+- Place everything with complete control, by setting it accurately in 3D space.
+- Correctly formats complex use-cases, so it is both a) instantaneous and single-click and b) generates all possible required code, so only a CTRL-V is needed.
 
 Instructions:
 1. Install the Blender add-on.
