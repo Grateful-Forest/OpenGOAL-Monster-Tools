@@ -15,8 +15,8 @@ Features:
 Includes:
 - Checks that keep you in the 255 OpenGOAL limit.
 - Unique instancing. Touch up a previous export and it'll replace the old one, or create a new one, your indexing won't conflict.
-- Place everything with accurate control, by setting it exactly in 3D space.
-- Correctly formats complex use-cases, so it is both a) instantaneous and single-click, and b) generates all possible required code, so only a CTRL-V is needed.
+- Place everything with accurate precision, by placing it exactly in 3D space.
+- One-click handling of all code, including formatting complex use-cases. So it is both a) instantaneous and single-click, and b) generates all possible required code, so only a CTRL-V is needed.
 
 Instructions:
 1. Install the Blender add-on.
