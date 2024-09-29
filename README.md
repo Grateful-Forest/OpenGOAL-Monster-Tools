@@ -1,5 +1,5 @@
 # OpenGOAL-Monster-Tools
-One-Click Monster Generator for Jak 1
+One-Click Monster Exporter for Jak 1
 
 ![Navmesh](https://github.com/user-attachments/assets/21cf6645-7de2-492b-bf42-3eaaba11073d)
 
@@ -9,14 +9,14 @@ Features:
 - Click and drag lines to generate paths monsters follow when idle.
 - Size 3D spheres to set obstacles in 3D space.
 - Paint any area to mark gaps monsters jump over.
-- Correctly export all monster related code in a single click.
-- Do nothing but CTRL-V to see your monsters in game.
+- Export complex set-up instantly with one-click handling of all code.
+- Take no action except CTRL-V to see your monsters in game.
 
 Includes:
-- Checks that keep you in the 255 OpenGOAL limit.
-- Unique instancing. Touch up a previous monster and it'll replace the old one, or create a new one, your indexing won't conflict.
-- Place everything with complete control, by placing it exactly in 3D space.
-- One-click handling of all code, including formatting complex use-cases, so it's both a) instantaneous and single-click, and b) generates all possible required code, so only a CTRL-V is needed.
+- Automatic check to keep you in the 255 OpenGOAL limit.
+- Unique instancing. Re-generate an old monster and it will update the old one, or create a new one, your indexing won't conflict.
+- Place everything accurately by placing it in 3D space.
+- One-click code handling means it's both A) Instantaneous and single-click, and B) Generates all possible required code, so only a CTRL-V is needed.
 
 Instructions:
 1. Install the Blender add-on.
