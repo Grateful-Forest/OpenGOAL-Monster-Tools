@@ -9,12 +9,12 @@ Features:
 - Click and drag lines to generate paths monsters follow when idle.
 - Size 3D spheres to set obstacles in 3D space.
 - Paint any area to mark gaps monsters jump over.
-- Export complex set-up instantly with one-click handling of all code.
+- Export complex set-ups instantly with one-click handling of all code.
 - Take no action except CTRL-V to see your monsters in game.
 
 Includes:
 - Automatic check to keep you in the 255 OpenGOAL limit.
-- Unique instancing. Re-generate an old monster and it will update the old one, or create a new one, your indexing won't conflict.
+- Unique instancing. Re-generate an old monster and it will automatically update the old one, or create a new one, your indexing won't conflict.
 - Place everything accurately by placing it in 3D space.
 - One-click code handling means it's both A) Instantaneous and single-click, and B) Generates all possible required code, so only a CTRL-V is needed.
 
