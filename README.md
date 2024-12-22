@@ -4,19 +4,12 @@ One-Click Monster Exporter for Jak 1
 ![Navmesh](https://github.com/user-attachments/assets/21cf6645-7de2-492b-bf42-3eaaba11073d)
 
 Features:
-- Do nothing but drag a shape in Blender to make an area monsters roam in. 
-- Use any shape without worrying about triangulation.
-- Click and drag lines to generate paths monsters follow when idle.
-- Size 3D spheres to set obstacles in 3D space.
-- Paint any area to mark gaps monsters jump over.
+- Do nothing but drag a shape in Blender to make an area monsters roam in.
+- Support any/all shapes, automatically formats all meshes.
+- Take no action other than choose what you want, drag a line for paths, size spheres for obstacles, and paint areas for jumps.
+- Menus spawn objects for the fastest/easiest placement.
 - Export complex set-ups instantly with one-click handling of all code.
 - Take no action except CTRL-V to see your monsters in game.
-
-Includes:
-- Automatic check to keep you in the 255 OpenGOAL limit.
-- Unique instancing. Re-generate an old monster and it will automatically update the old one, or create a new one, your indexing won't conflict.
-- Place everything accurately by placing it in 3D space.
-- One-click code handling means it's both A) Instantaneous and single-click, and B) Generates all required code, so only a CTRL-V is needed.
 
 Instructions:
 1. Install the Blender add-on.
