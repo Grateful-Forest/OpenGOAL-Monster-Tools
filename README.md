@@ -6,7 +6,7 @@ One-Click Monster Exporter for Jak 1
 Features:
 - Do nothing but drag a shape in Blender to make an area monsters roam in.
 - Supports any/all shapes, automatically formats all meshes.
-- Take no action other than define what you want, drag lines for paths, size spheres for obstacles, or paint areas for jumps.
+- Take no action other than pick what you want, drag lines for paths, size spheres for obstacles, or paint areas for jumps.
 - Menus spawn objects for the fastest/easiest placement.
 - Export complex set-ups instantly with one-click handling of all code.
 - Take no action except CTRL-V to see your monsters in game.
