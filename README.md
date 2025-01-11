@@ -1,7 +1,7 @@
 # OpenGOAL-Monster-Tools
 One-Click Monster Exporter for Jak 1
 
-![Navmesh](https://github.com/user-attachments/assets/21cf6645-7de2-492b-bf42-3eaaba11073d)
+![navmesh](https://github.com/user-attachments/assets/1b441d07-1e42-4123-b502-bb6d8ec1a33b)
 
 Features:
 - Do nothing but drag a shape in Blender to make an area monsters roam in.
